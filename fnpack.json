@@ -3,14 +3,14 @@
     "display_name": "codeEdit",
     "desc": "这是一个测试",
     "labels": "工具",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "author": "Flex_7746",
-    "author_url": "",
-    "bug_report_url": "",
+    "author_url": "https://github.com/coder/code-server",
+    "bug_report_url": "https://github.com/coder/code-server/issues",
     "install_type": "存储空间",
     "size": "21",
     "history": {
-      "v1.0.0": "初始版本"
+      "v0.0.1": "测试版本"
     }
   }
 }
