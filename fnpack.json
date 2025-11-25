@@ -1,0 +1,16 @@
+{
+  "mytool": {
+    "display_name": "codeEdit",
+    "desc": "这是一个测试",
+    "labels": "工具",
+    "version": "1.0.0",
+    "author": "Flex_7746",
+    "author_url": "",
+    "bug_report_url": "",
+    "install_type": "存储空间",
+    "size": "21",
+    "history": {
+      "v1.0.0": "初始版本"
+    }
+  }
+}
