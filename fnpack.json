@@ -14,6 +14,21 @@
       "v1.0.0": "初始版本"
     }
   }, 
+    "vs-code": {
+    "display_name": "VS Code桌面版",
+    "desc": "飞牛桌面版本的VScode，两种方式打开：一个是内嵌的桌面版本，另一个外链打开。",
+    "labels": "工具,Docker",
+    "version": "1.0.1",
+    "author": "coder",
+    "author_url": "https://github.com/coder/code-server",
+    "bug_report_url": "https://github.com/coder/code-server/issues",
+    "download_url": "",
+    "install_type": "存储空间",
+    "size": "不超过1",
+    "history": {
+      "v1.0.1": "修复终端不能复制粘贴的问题。"
+    }
+  }, 
    "webcs": {
     "display_name": "网页版CS1.6",
     "desc": "一个用浏览器也能在线玩CS。",
@@ -35,16 +50,41 @@
     "labels": "工具",
     "version": "1.0.0",
     "author": "ducbao414",
-    "author_url": "https://github.com/ducbao414",
-    "download_url": "",
+    "author_url": "https://github.com/ducbao414/win32.run",
     "bug_report_url": "https://github.com/ducbao414/win32.run/issues",
     "install_type": "存储空间",
     "size": "不超过1",
     "history": {
       "v1.0.0": "初始版本"
     }
+  },
+   "webintosh": {
+    "display_name": "网页版 macOS",
+    "desc": "在网页中优雅的体验 macOS Sequoia 界面",
+    "labels": "工具",
+    "version": "1.0.0",
+    "author": "Mengobs",
+    "author_url": "https://github.com/Mengobs/Webintosh",
+    "bug_report_url": "https://github.com/Mengobs/Webintosh/issues",
+    "install_type": "存储空间",
+    "size": "不超过1",
+    "history": {
+      "v1.0.0": "初始版本"
+    }
+  },
+    "tenfellos": {
+    "display_name": "腾飞Webos",
+    "desc": "腾飞webos是一款免费的个人私有云。",
+    "labels": "私有云,Docker",
+    "version": "1.0.0",
+    "author": "fs185085781",
+    "author_url": "https://github.com/fs185085781/webos",
+    "bug_report_url": "https://github.com/fs185085781/webos/issues",
+    "install_type": "存储空间",
+    "size": "不超过1",
+    "history": {
+      "v1.0.0": "初始版本"
+    }
   }
-
-
 
 }
