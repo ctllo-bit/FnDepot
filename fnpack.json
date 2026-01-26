@@ -1,0 +1,50 @@
+{
+  "cpuFind": {
+    "display_name": "硬件天梯查询",
+    "desc": "可以高效查询cpu多核性能、游戏性能、GPU性能、硬盘性能，并进行对比的工具。",
+    "labels": "工具",
+    "version": "1.0.0",
+    "author": "Lainbo",
+    "author_url": "",
+    "download_url": "",
+    "bug_report_url": "",
+    "install_type": "存储空间",
+    "size": "不超过1",
+    "history": {
+      "v1.0.0": "初始版本"
+    }
+  }, 
+   "webcs": {
+    "display_name": "网页版CS1.6",
+    "desc": "一个用浏览器也能在线玩CS。",
+    "labels": "游戏",
+    "version": "1.0.0",
+    "author": "webcs",
+    "author_url": "",
+    "download_url": "",
+    "bug_report_url": "",
+    "install_type": "存储空间",
+    "size": "不超过1",
+    "history": {
+      "v1.0.0": "初始版本"
+    }
+  },
+    "winxp": {
+    "display_name": "网页版WinXP",
+    "desc": "一个网站就能体验WinXP。",
+    "labels": "工具",
+    "version": "1.0.0",
+    "author": "ducbao414",
+    "author_url": "https://github.com/ducbao414",
+    "download_url": "",
+    "bug_report_url": "https://github.com/ducbao414/win32.run/issues",
+    "install_type": "存储空间",
+    "size": "不超过1",
+    "history": {
+      "v1.0.0": "初始版本"
+    }
+  }
+
+
+
+}
