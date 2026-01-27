@@ -72,6 +72,20 @@
       "v1.0.0": "初始版本"
     }
   },
+    "pvz2-gardendless": {
+    "display_name": "PvZ2 无花园",
+    "desc": "PvZ2 Gardendless 是一款粉丝自制的《植物大战僵尸2》重制版，完全使用 Web 技术构建。",
+    "labels": "游戏,Docker",
+    "version": "1.0.0",
+    "author": "南Garden",
+    "author_url": "https://github.com/Gzh0821/pvzg_site",
+    "bug_report_url": "https://github.com/Gzh0821/pvzg_site/issues",
+    "install_type": "存储空间",
+    "size": "不超过1",
+    "history": {
+      "v1.0.0": "初始版本"
+    }
+  },
     "tenfellos": {
     "display_name": "腾飞Webos",
     "desc": "腾飞webos是一款免费的个人私有云。",
@@ -80,6 +94,34 @@
     "author": "fs185085781",
     "author_url": "https://github.com/fs185085781/webos",
     "bug_report_url": "https://github.com/fs185085781/webos/issues",
+    "install_type": "存储空间",
+    "size": "不超过1",
+    "history": {
+      "v1.0.0": "初始版本"
+    }
+  },
+    "we-mp-rss": {
+    "display_name": "微信公众号订阅",
+    "desc": "将公众号内容自动转为标准 RSS 订阅源,通过 Feedly、Inoreader 等 RSS 阅读器统一管理。",
+    "labels": "工具,Docker",
+    "version": "1.0.0",
+    "author": "rachelos",
+    "author_url": "https://github.com/rachelos/we-mp-rss",
+    "bug_report_url": "https://github.com/rachelos/we-mp-rss/issues",
+    "install_type": "存储空间",
+    "size": "不超过1",
+    "history": {
+      "v1.0.0": "初始版本"
+    }
+  },
+    "cuber": {
+    "display_name": "魔方栈",
+    "desc": "优美而强大的网页魔方",
+    "labels": "魔方",
+    "version": "1.0.0",
+    "author": "huazhechen",
+    "author_url": "https://gitee.com/huazhechen/cuber",
+    "bug_report_url": "https://gitee.com/huazhechen/cuber/issues",
     "install_type": "存储空间",
     "size": "不超过1",
     "history": {
