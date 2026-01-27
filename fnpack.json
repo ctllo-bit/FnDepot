@@ -17,7 +17,7 @@
     "vs-code": {
     "display_name": "VS Code桌面版",
     "desc": "飞牛桌面版本的VScode，两种方式打开：一个是内嵌的桌面版本，另一个外链打开。",
-    "labels": "工具,Docker",
+    "labels": "开发,Docker",
     "version": "1.0.1",
     "author": "coder",
     "author_url": "https://github.com/coder/code-server",
@@ -102,7 +102,7 @@
   },
     "we-mp-rss": {
     "display_name": "微信公众号订阅",
-    "desc": "将公众号内容自动转为标准 RSS 订阅源,通过 Feedly、Inoreader 等 RSS 阅读器统一管理。",
+    "desc": "we-mp-rss可将公众号内容自动转为标准 RSS 订阅源统一管理。",
     "labels": "工具,Docker",
     "version": "1.0.0",
     "author": "rachelos",
@@ -122,6 +122,48 @@
     "author": "huazhechen",
     "author_url": "https://gitee.com/huazhechen/cuber",
     "bug_report_url": "https://gitee.com/huazhechen/cuber/issues",
+    "install_type": "存储空间",
+    "size": "不超过1",
+    "history": {
+      "v1.0.0": "初始版本"
+    }
+  },
+    "templeRun2": {
+    "display_name": "神庙逃亡2",
+    "desc": "一位寻宝者得知一座古老神庙藏有宝藏后，潜入其中。他成功夺取了宝藏，但现在必须尽快离开神庙。\n因为神庙的守卫者已经得知了他的行踪，并派出一个伪装成猛兽的凶残恶魔追捕他。",
+    "labels": "游戏",
+    "version": "1.0.0",
+    "author": "Imangi Studios",
+    "author_url": "",
+    "bug_report_url": "",
+    "install_type": "存储空间",
+    "size": "不超过1",
+    "history": {
+      "v1.0.0": "初始版本"
+    }
+  },
+    "tombRunner": {
+    "display_name": "古墓丽影",
+    "desc": "你准备好踏上危险的冒险之旅了吗？你准备好面对你的命运了吗？\n那就鼓起勇气吧，因为你将面临无数的挑战，只有奇迹才能让你活下来。你将有机会扮演你最喜欢的电影角色，不过在本游戏中，角色的名字略有改动，\n无论你选择哪个角色，你都需要不断前进，朝着正确的方向前进，收集宝藏，避开障碍。努力在任何情况下生存下来，赚取大量金钱，并赢得荣耀。",
+    "labels": "游戏",
+    "version": "1.0.0",
+    "author": "唔知喔",
+    "author_url": "",
+    "bug_report_url": "",
+    "install_type": "存储空间",
+    "size": "不超过1",
+    "history": {
+      "v1.0.0": "初始版本"
+    }
+  },
+    "subwaySurfers": {
+    "display_name": "地铁跑酷",
+    "desc": "地铁跑酷玩家们正以他们惯常的方式度过冬日假期——前往地铁站。\n冬日的到来让地铁站银装素裹，为冒险增添了更多刺激，也营造了浓厚的节日氛围，所有地铁跑酷系列的粉丝都可以加入这场冬日地铁冒险。",
+    "labels": "游戏",
+    "version": "1.0.0",
+    "author": "KILOO & SYBO",
+    "author_url": "",
+    "bug_report_url": "",
     "install_type": "存储空间",
     "size": "不超过1",
     "history": {
