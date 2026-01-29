@@ -171,7 +171,7 @@
     }
   },
     "eaglercraft": {
-    "display_name": "EaglercraftX 1.8.8 离线版",
+    "display_name": "Minecraft离线版",
     "desc": "Eaglercraft 1.8.8 版本，由 lax1dude 制作。这是目前 Eaglercraft 最稳定、应用最广泛的版本。",
     "labels": "游戏",
     "version": "1.8.8",
@@ -181,7 +181,7 @@
     "install_type": "存储空间",
     "size": "10.9",
     "history": {
-      "v1.8.8": "解决返回后，iframe控制不了行走的问题"
+      "v1.8.8": "修复按Esc后，失去焦点而控制不了人物问题。"
     }
   },
     "beKing": {
@@ -210,6 +210,21 @@
     "size": "不超过1",
     "history": {
       "v1.0.0": "初始版本"
+    }
+  },
+    "webMC": {
+    "display_name": "Minecraft网页版",
+    "desc": "MC.JS.COOL--直接在浏览器里玩 MC，Eaglercraft 最佳中文版分支。",
+    "labels": "游戏",
+    "version": "1.0.1",
+    "author": "Eaglercraft",
+    "author_url": "",
+    "bug_report_url": "",
+    "install_type": "存储空间",
+    "size": "不超过1",
+    "history": {
+      "v1.0.0": "初始版本",
+      "v1.0.1": "修复按Esc后，失去焦点而控制不了人物问题，适配手机全屏。"
     }
   }
 
