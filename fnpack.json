@@ -127,6 +127,20 @@
     "history": {
       "v1.0.0": "初始版本"
     }
+  },    
+    "ubuntu-xfce": {
+    "display_name": "Ubuntu",
+    "desc": "这是一个简单的Ubuntu的桌面应用，由Dokcer来驱动。\n默认用户名：webtop\n默认密码：password",
+    "labels": "Ubuntu,Docker",
+    "version": "1.0.0",
+    "author": "linuxserver",
+    "author_url": "https://github.com/linuxserver/docker-webtop",
+    "bug_report_url": "https://github.com/linuxserver/docker-webtop/issues",
+    "install_type": "存储空间",
+    "size": "不超过1",
+    "history": {
+      "v1.0.0": "初始版本"
+    }
   },
     "templeRun2": {
     "display_name": "神庙逃亡2",
@@ -179,9 +193,9 @@
     "author_url": "https://github.com/lax1dude",
     "bug_report_url": "",
     "install_type": "存储空间",
-    "size": "10.9",
+    "size": "10.87",
     "history": {
-      "v1.8.8": "修复按Esc后，失去焦点而控制不了人物问题。"
+      "v1.8.8": "修复按Esc后，失去焦点而控制不了人物问题，适配手机全屏。"
     }
   },
     "beKing": {
