@@ -240,6 +240,19 @@
       "v1.0.0": "初始版本",
       "v1.0.1": "修复按Esc后，失去焦点而控制不了人物问题，适配手机全屏。"
     }
+  },
+    "gridmerge": {
+    "display_name": "2048",
+    "platform": "all",
+    "version": "1.0.0",
+    "desc": "2048游戏适配，只做代码搬运工，并不生产代码。",
+    "distributor": "ctllo-bit",
+    "distributor_url": "https://github.com/ctllo-bit/FnDepot",
+    "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
+    "labels": "游戏",
+    "size": "不超过1",
+    "install_type": "存储空间",
+    "changelog": "全架构适配"
   }
 
 }
