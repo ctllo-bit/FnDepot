@@ -253,6 +253,19 @@
     "size": "不超过1",
     "install_type": "存储空间",
     "changelog": "全架构适配"
+  },
+    "fruit": {
+    "display_name": "疯狂切水果",
+    "platform": "all",
+    "version": "1.0.0",
+    "desc": "来自于cocoscreate商店，只做代码搬运工，并不生产代码。",
+    "distributor": "ctllo-bit",
+    "distributor_url": "https://github.com/ctllo-bit/FnDepot",
+    "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
+    "labels": "游戏",
+    "size": "9.9",
+    "install_type": "存储空间",
+    "changelog": "全架构适配"
   }
 
 }
