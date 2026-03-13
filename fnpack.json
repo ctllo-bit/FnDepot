@@ -266,6 +266,20 @@
     "size": "9.9",
     "install_type": "存储空间",
     "changelog": "全架构适配"
+  },
+    "fusion": {
+    "display_name": "Fusion",
+    "desc": "默认密码：fusion\n一款轻量级的 RSS 源聚合器和阅读器。",
+    "labels": "Ubuntu,Docker",
+    "version": "1.0.0",
+    "author": "0x2E",
+    "author_url": "https://github.com/0x2E/fusion",
+    "bug_report_url": "https://github.com/0x2E/fusion/issues",
+    "install_type": "存储空间",
+    "size": "7.8",
+    "history": {
+      "v1.0.0": "初始版本"
+    }
   }
 
 }
