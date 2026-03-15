@@ -280,6 +280,20 @@
     "history": {
       "v1.0.0": "初始版本"
     }
+  },
+    "greaterwms": {
+    "display_name": "GreaterWMS",
+    "desc": "GreaterWMS 一款完全开源的仓库管理系统。",
+    "labels": "仓库管理,Docker",
+    "version": "1.0.0",
+    "author": "GreaterWMS",
+    "author_url": "https://github.com/GreaterWMS/GreaterWMS",
+    "bug_report_url": "https://github.com/GreaterWMS/GreaterWMS/issues",
+    "install_type": "存储空间",
+    "size": "不超过1",
+    "history": {
+      "v1.0.0": "初始版本"
+    }
   }
 
 }
