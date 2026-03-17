@@ -267,6 +267,19 @@
     "install_type": "存储空间",
     "changelog": "全架构适配"
   },
+    "xiaomusic": {
+    "display_name": "XiaoMusic",
+    "platform": "all",
+    "version": "1.0.0",
+    "desc": "XiaoMusic: 无限听歌，解放小爱音箱。",
+    "distributor": "hanxi",
+    "distributor_url": "https://github.com/hanxi/xiaomusic",
+    "bug_report_url": "https://github.com/hanxi/xiaomusic/issues",
+    "labels": "音乐,Docker",
+    "size": "不超过1",
+    "install_type": "存储空间",
+    "changelog": "全架构适配"
+  },
     "fusion": {
     "display_name": "Fusion",
     "desc": "默认密码：fusion\n一款轻量级的 RSS 源聚合器和阅读器。",
