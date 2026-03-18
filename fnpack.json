@@ -241,6 +241,19 @@
       "v1.0.1": "修复按Esc后，失去焦点而控制不了人物问题，适配手机全屏。"
     }
   },
+    "clawstrike": {
+    "display_name": "CLAWSTRIKE",
+    "platform": "all",
+    "version": "1.0.0",
+    "desc": "2025年JS13K比赛的冠军作品。",
+    "distributor": "remvst",
+    "distributor_url": "https://github.com/remvst/clawstrike ",
+    "bug_report_url": "https://github.com/remvst/clawstrike /issues",
+    "labels": "游戏",
+    "size": "不超过1",
+    "install_type": "存储空间",
+    "changelog": "全架构适配"
+  },
     "gridmerge": {
     "display_name": "2048",
     "platform": "all",
