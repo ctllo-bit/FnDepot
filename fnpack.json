@@ -293,10 +293,24 @@
     "install_type": "存储空间",
     "changelog": "全架构适配"
   },
+    "qRubiks": {
+    "display_name": "蓝牙魔方",
+    "platform": "all",
+    "version": "1.0.0",
+    "desc": "可以连接奇异蓝牙魔方的demo，注意要用https连接才有效果。",
+    "distributor": "ctllo-bit",
+    "distributor_url": "https://github.com/ctllo-bit/threejs-rubiks-cube",
+    "bug_report_url": "https://github.com/ctllo-bit/threejs-rubiks-cube/issues",
+    "labels": "魔方,蓝牙",
+    "size": "不超过1",
+    "install_type": "存储空间",
+    "changelog": "全架构适配"
+  },
+
     "fusion": {
     "display_name": "Fusion",
     "desc": "默认密码：fusion\n一款轻量级的 RSS 源聚合器和阅读器。",
-    "labels": "Ubuntu,Docker",
+    "labels": "工具",
     "version": "1.0.0",
     "author": "0x2E",
     "author_url": "https://github.com/0x2E/fusion",
