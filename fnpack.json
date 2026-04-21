@@ -306,7 +306,19 @@
     "install_type": "存储空间",
     "changelog": "全架构适配"
   },
-
+    "hermes": {
+    "display_name": "Hermes Agent",
+    "platform": "all",
+    "version": "1.0.0",
+    "desc": "一款可在你的服务器上运行、具备自我迭代能力的 AI 智能体。拥有跨会话持续累积的分层记忆系统、离线状态下仍可触发的定时任务调度器，以及能自动保存可复用执行流程的技能体系。",
+    "distributor": "Nous Research",
+    "distributor_url": "https://github.com/NousResearch/hermes-agent",
+    "bug_report_url": "https://github.com/NousResearch/hermes-agent/issues",
+    "labels": "hermes,Docker",
+    "size": "不超过1",
+    "install_type": "存储空间",
+    "changelog": "全架构适配"
+  },
     "fusion": {
     "display_name": "Fusion",
     "desc": "默认密码：fusion\n一款轻量级的 RSS 源聚合器和阅读器。",
