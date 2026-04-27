@@ -319,6 +319,19 @@
     "install_type": "存储空间",
     "changelog": "全架构适配"
   },
+    "coder": {
+    "display_name": "VS Code原生版",
+    "platform": "all",
+    "version": "1.0.0",
+    "desc": "飞牛原生版本，用root适配的coder-server，权限高不建议主力机使用，可以用于开发测试环境。",
+    "distributor": "coder",
+    "distributor_url": "https://github.com/coder/code-server",
+    "bug_report_url": "https://github.com/coder/code-server/issues",
+    "labels": "开发,vscode",
+    "size": "不超过1",
+    "install_type": "存储空间",
+    "changelog": "全架构适配"
+  },
     "fusion": {
     "display_name": "Fusion",
     "desc": "默认密码：fusion\n一款轻量级的 RSS 源聚合器和阅读器。",
