@@ -360,6 +360,20 @@
       "v1.0.0": "初始版本",
       "v1.0.1": "增加postgresql数据库的，删除新建用产生的Demo数据的设定，数据库文件保存到应用文件夹"
     }
+  },
+    "cpolar": {
+    "display_name": "cpolar极点云",
+    "desc": "cpolar是一款安全的内网穿透工具，适合微信公众号开发调试，Web开发，OpenAPI开发，webhook开发和调试工具。只需一行命令，就可以将内网站点发布至公网，方便给客户演示。",
+    "labels": "cpolar,Docker",
+    "version": "1.0.0",
+    "author": "cpolar",
+    "author_url": "https://www.cpolar.com/",
+    "bug_report_url": "https://www.cpolar.com/docs",
+    "install_type": "存储空间",
+    "size": "不超过1",
+    "history": {
+      "v1.0.0": "初始版本"
+    }
   }
 
 }
