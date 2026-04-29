@@ -364,7 +364,7 @@
     "cpolar": {
     "display_name": "cpolar极点云",
     "desc": "cpolar是一款安全的内网穿透工具，适合微信公众号开发调试，Web开发，OpenAPI开发，webhook开发和调试工具。只需一行命令，就可以将内网站点发布至公网，方便给客户演示。",
-    "labels": "cpolar,Docker",
+    "labels": "工具,Docker",
     "version": "1.0.0",
     "author": "cpolar",
     "author_url": "https://www.cpolar.com/",
@@ -373,6 +373,20 @@
     "size": "不超过1",
     "history": {
       "v1.0.0": "初始版本"
+    }
+  },
+    "cpolar-Native": {
+    "display_name": "cpolar原生版",
+    "desc": "cpolar是一款安全的内网穿透工具，适合微信公众号开发调试，Web开发，OpenAPI开发，webhook开发和调试工具。只需一行命令，就可以将内网站点发布至公网，方便给客户演示。",
+    "labels": "工具",
+    "version": "3.3.12",
+    "author": "cpolar",
+    "author_url": "https://www.cpolar.com/",
+    "bug_report_url": "https://www.cpolar.com/docs",
+    "install_type": "存储空间",
+    "size": "不超过1",
+    "history": {
+      "v3.3.12": "原生版本，适配全架构"
     }
   }
 
