@@ -361,22 +361,22 @@
       "v1.0.1": "增加postgresql数据库的，删除新建用产生的Demo数据的设定，数据库文件保存到应用文件夹"
     }
   },
-    "cpolar": {
-    "display_name": "cpolar极点云",
-    "desc": "cpolar是一款安全的内网穿透工具，适合微信公众号开发调试，Web开发，OpenAPI开发，webhook开发和调试工具。只需一行命令，就可以将内网站点发布至公网，方便给客户演示。",
-    "labels": "工具,Docker",
+    "ddnsto": {
+    "display_name": "DDNSTO",
+    "desc": "简单、快速的内网穿透工具，不受网络限制，全局掌控您的私人设备。",
+    "labels": "工具",
     "version": "1.0.0",
-    "author": "cpolar",
-    "author_url": "https://www.cpolar.com/",
-    "bug_report_url": "https://www.cpolar.com/docs",
+    "author": "ddnsto",
+    "author_url": "https://www.kooldns.cn/",
+    "bug_report_url": "https://doc.linkease.com/zh/guide/ddnsto/",
     "install_type": "存储空间",
     "size": "不超过1",
     "history": {
-      "v1.0.0": "初始版本"
+      "v1.0.0": "原生版本，适配全架构"
     }
   },
     "cpolar-Native": {
-    "display_name": "cpolar原生版",
+    "display_name": "cpolar极点云",
     "desc": "cpolar是一款安全的内网穿透工具，适合微信公众号开发调试，Web开发，OpenAPI开发，webhook开发和调试工具。只需一行命令，就可以将内网站点发布至公网，方便给客户演示。",
     "labels": "工具",
     "version": "3.3.12",
