@@ -388,6 +388,20 @@
     "history": {
       "v3.3.12": "原生版本，适配全架构"
     }
+  },
+    "panorama": {
+    "display_name": "全景漫游看房",
+    "desc": "全景漫游-高阶版在线看房，方便给客户演示。",
+    "labels": "展示",
+    "version": "1.0.0",
+    "author": "dragonir",
+    "author_url": "https://github.com/dragonir/threejs-odessey",
+    "bug_report_url": "https://github.com/dragonir/threejs-odessey/issues",
+    "install_type": "存储空间",
+    "size": "4.9",
+    "history": {
+      "v1.0.0": "全架构适配"
+    }
   }
 
 }
