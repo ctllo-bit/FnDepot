@@ -293,6 +293,19 @@
     "install_type": "存储空间",
     "changelog": "全架构适配"
   },
+    "natpierce": {
+    "display_name": "皎月内网穿透",
+    "platform": "all",
+    "version": "1.0.0",
+    "desc": "数据无中转，不限速，真正的点对点直连内网穿透。",
+    "distributor": "natpierce",
+    "distributor_url": "https://www.natpierce.cn/",
+    "bug_report_url": "https://www.natpierce.cn/pc/infolist/index.html",
+    "labels": "工具",
+    "size": "7.5",
+    "install_type": "存储空间",
+    "changelog": "全架构适配"
+  },
     "qRubiks": {
     "display_name": "蓝牙魔方",
     "platform": "all",
