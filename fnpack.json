@@ -386,10 +386,105 @@
     "install_type": "存储空间",
     "size": "1",
     "changelog": "performance: 初始版本"
+  },
+  "ubuntu-xfce": {
+      "display_name": "Ubuntu",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "desc": "这是一个简单的Ubuntu的桌面应用，由Dokcer来驱动。\n默认用户名：webtop\n默认密码：password",
+      "labels": "Ubuntu,Docker",
+      "version": "1.0.0",
+      "distributor": "ctllo-bit",
+      "distributor_url": "https://github.com/ctllo-bit/FnDepot",
+      "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
+      "install_type": "存储空间",
+      "size": "1",
+      "changelog": "performance: 初始版本"
+  },
+
+
+  "ddnsto": {
+    "display_name": "DDNSTO",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "简单、快速的内网穿透工具，不受网络限制，全局掌控您的私人设备。",
+    "labels": "工具,原生",
+    "version": "1.0.0",
+    "distributor": "ctllo-bit",
+    "distributor_url": "https://github.com/ctllo-bit/FnDepot",
+    "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "1",
+    "changelog": "原生版本，适配全架构"
+  },
+  "cpolar-Native": {
+    "display_name": "cpolar极点云",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "cpolar是一款安全的内网穿透工具，适合微信公众号开发调试，Web开发，OpenAPI开发，webhook开发和调试工具。",
+    "labels": "工具,原生",
+    "version": "3.3.12",
+    "distributor": "ctllo-bit",
+    "distributor_url": "https://github.com/ctllo-bit/FnDepot",
+    "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "1",
+    "changelog": "原生版本，适配全架构"
+  },
+  "pvz-portable": {
+    "display_name": "植物大战僵尸：年度版",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "基于pvz-portable二次开发，需要用户提main.pak与properties文件夹，将这两个上传到应用文件的pvz-portable/data/目录就可以运行了。",
+    "labels": "游戏,原生",
+    "version": "1.0.0",
+    "distributor": "ctllo-bit",
+    "distributor_url": "https://github.com/ctllo-bit/FnDepot",
+    "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "6",
+    "changelog": "performance: 初始版本"
+  },
+  "fusion": {
+    "display_name": "Fusion",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "默认密码：fusion\n一款轻量级的 RSS 源聚合器和阅读器。",
+    "labels": "工具,原生",
+    "version": "1.0.0",
+    "distributor": "ctllo-bit",
+    "distributor_url": "https://github.com/ctllo-bit/FnDepot",
+    "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "8",
+    "changelog": "performance: 初始版本"
+  },
+  "natpierce": {
+    "display_name": "皎月内网穿透",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "数据无中转，不限速，真正的点对点直连内网穿透。",
+    "labels": "工具,原生",
+    "version": "1.0.0",
+    "distributor": "ctllo-bit",
+    "distributor_url": "https://github.com/ctllo-bit/FnDepot",
+    "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "8",
+    "changelog": "performance: 初始版本"
   }
-
-
-
 
 
 }
