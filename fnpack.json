@@ -142,7 +142,22 @@
       "install_type": "存储空间",
       "size": "1",
       "changelog": "修复按Esc后，失去焦点而控制不了人物问题，适配手机全屏。"
+  },
+  "lifeRestart": {
+      "display_name": "人生重开模拟器",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "desc": "一款文字类网页游戏。",
+      "labels": "游戏",
+      "version": "1.0.0",
+      "distributor": "ctllo-bit",
+      "distributor_url": "https://github.com/ctllo-bit/FnDepot",
+      "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
+      "install_type": "存储空间",
+      "size": "1",
+      "changelog": "performance: 初始版本"
   }
-
 
 }
