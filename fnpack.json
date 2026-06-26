@@ -160,6 +160,7 @@
       "changelog": "performance: 初始版本"
   },
 
+
   "clawstrike": {
       "display_name": "CLAWSTRIKE",
       "platform": [
@@ -271,7 +272,122 @@
       "install_type": "存储空间",
       "size": "1",
       "changelog": "performance: 初始版本"
+  },
+
+
+  "hermes": {
+    "display_name": "Hermes Agent",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "一款可在你的服务器上运行、具备自我迭代能力的 AI 智能体。拥有跨会话持续累积的分层记忆系统、离线状态下仍可触发的定时任务调度器，以及能自动保存可复用执行流程的技能体系。",
+    "labels": "hermes,Docker",
+    "version": "1.0.0",
+    "distributor": "ctllo-bit",
+    "distributor_url": "https://github.com/ctllo-bit/FnDepot",
+    "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "1",
+    "changelog": "performance: 初始版本"
+  },
+  "greaterwms": {
+    "display_name": "GreaterWMS",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "GreaterWMS 一款完全开源的仓库管理系统。",
+    "labels": "仓库管理,Docker",
+    "version": "1.0.1",
+    "distributor": "ctllo-bit",
+    "distributor_url": "https://github.com/ctllo-bit/FnDepot",
+    "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "1",
+    "changelog": "增加postgresql数据库的，删除新建用产生的Demo数据的设定，数据库文件保存到应用文件夹"
+  },
+  "xiaomusic": {
+    "display_name": "XiaoMusic",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "XiaoMusic: 无限听歌，解放小爱音箱。",
+    "labels": "音乐,Docker",
+    "version": "1.0.0",
+    "distributor": "ctllo-bit",
+    "distributor_url": "https://github.com/ctllo-bit/FnDepot",
+    "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "1",
+    "changelog": "performance: 初始版本"
+  },
+  "we-mp-rss": {
+    "display_name": "微信公众号订阅",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "we-mp-rss可将公众号内容自动转为标准 RSS 订阅源统一管理。",
+    "labels": "工具,Docker",
+    "version": "1.0.0",
+    "distributor": "ctllo-bit",
+    "distributor_url": "https://github.com/ctllo-bit/FnDepot",
+    "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "1",
+    "changelog": "performance: 初始版本"
+  },
+  "vs-code": {
+    "display_name": "VS Code桌面版",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "飞牛桌面版本的VScode，两种方式打开：一个是内嵌的桌面版本，另一个外链打开。",
+    "labels": "开发,Docker",
+    "version": "1.0.1",
+    "distributor": "ctllo-bit",
+    "distributor_url": "https://github.com/ctllo-bit/FnDepot",
+    "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "1",
+    "changelog": "修复终端不能复制粘贴的问题。"
+  },
+  "tenfellos": {
+    "display_name": "腾飞Webos",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "腾飞webos是一款免费的个人私有云。",
+    "labels": "私有云,Docker",
+    "version": "1.0.0",
+    "distributor": "ctllo-bit",
+    "distributor_url": "https://github.com/ctllo-bit/FnDepot",
+    "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "1",
+    "changelog": "performance: 初始版本"
+  },
+  "pvz2-gardendless": {
+    "display_name": "PvZ2 无花园",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "PvZ2 Gardendless 是一款粉丝自制的《植物大战僵尸2》重制版，完全使用 Web 技术构建。",
+    "labels": "游戏,Docker",
+    "version": "1.0.0",
+    "author": "南Garden",
+    "author_url": "https://github.com/Gzh0821/pvzg_site",
+    "bug_report_url": "https://github.com/Gzh0821/pvzg_site/issues",
+    "install_type": "存储空间",
+    "size": "1",
+    "changelog": "performance: 初始版本"
   }
+
 
 
 
