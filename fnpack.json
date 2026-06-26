@@ -257,8 +257,8 @@
     "gridmerge": {
     "display_name": "2048",
     "platform": "all",
-    "version": "1.0.0",
-    "desc": "2048游戏适配，只做代码搬运工，并不生产代码。",
+    "version": "1.0.1",
+    "desc": "基于原版2048二次开发，进行了界面适配与添加音效，基本上重写了。",
     "distributor": "ctllo-bit",
     "distributor_url": "https://github.com/ctllo-bit/FnDepot",
     "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
@@ -415,6 +415,19 @@
     "history": {
       "v1.0.0": "全架构适配"
     }
+  },
+    "pvz-portable": {
+    "display_name": "植物大战僵尸：年度版",
+    "platform": "all",
+    "version": "1.0.0",
+    "desc": "基于pvz-portable二次开发，需要用户提main.pak与properties文件夹，将这两个上传到应用文件的pvz-portable/data/目录就可以运行了。",
+    "distributor": "ctllo-bit",
+    "distributor_url": "https://github.com/wszqkzqk/PvZ-Portable",
+    "bug_report_url": "https://github.com/wszqkzqk/PvZ-Portable/issues",
+    "labels": "游戏",
+    "size": "6",
+    "install_type": "存储空间",
+    "changelog": "全架构适配"
   }
 
 }
