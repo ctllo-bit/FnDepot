@@ -15,6 +15,38 @@
     "size": "1",
     "changelog": "performance: 初始版本"
   },
+  "winxp": {
+    "display_name": "网页版WinXP",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "一个网站就能体验WinXP。",
+    "labels": "工具",
+    "version": "1.0.0",
+    "distributor": "ctllo-bit",
+    "distributor_url": "https://github.com/ctllo-bit/FnDepot",
+    "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "1",
+    "changelog": "performance: 初始版本"
+  },
+  "webintosh": {
+    "display_name": "网页版 macOS",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "在网页中优雅的体验 macOS Sequoia 界面",
+    "labels": "工具",
+    "version": "1.0.0",
+    "distributor": "ctllo-bit",
+    "distributor_url": "https://github.com/ctllo-bit/FnDepot",
+    "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "1",
+    "changelog": "performance: 初始版本"
+  },
   "subwaySurfers": {
       "display_name": "地铁跑酷",
       "platform": [
@@ -62,6 +94,54 @@
       "install_type": "存储空间",
       "size": "1",
       "changelog": "performance: 初始版本"
+  },
+  "beKing": {
+      "display_name": "刺杀国王",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "desc": "你肯定至少有过一次幻想自己是国王的念头。\n今天，你将有机会与一位国王相处一段时间。但你也要做好心理准备，国王的生活并不轻松。想想国王每天都要面对的种种危险吧。",
+      "labels": "游戏",
+      "version": "1.0.0",
+      "distributor": "ctllo-bit",
+      "distributor_url": "https://github.com/ctllo-bit/FnDepot",
+      "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
+      "install_type": "存储空间",
+      "size": "1",
+      "changelog": "performance: 初始版本"
+  },
+  "stickFigure": {
+      "display_name": "画线火柴人",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "desc": "画线火柴人（移植来源腾飞Webos） 快乐保护他吧。",
+      "labels": "游戏",
+      "version": "1.0.0",
+      "distributor": "ctllo-bit",
+      "distributor_url": "https://github.com/ctllo-bit/FnDepot",
+      "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
+      "install_type": "存储空间",
+      "size": "1",
+      "changelog": "performance: 初始版本"
+  },
+  "webMC": {
+      "display_name": "Minecraft网页版",
+      "platform": [
+        "x86",
+        "arm"
+      ],
+      "desc": "MC.JS.COOL--直接在浏览器里玩 MC，Eaglercraft 最佳中文版分支。",
+      "labels": "游戏",
+      "version": "1.0.1",
+      "distributor": "ctllo-bit",
+      "distributor_url": "https://github.com/ctllo-bit/FnDepot",
+      "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
+      "install_type": "存储空间",
+      "size": "1",
+      "changelog": "修复按Esc后，失去焦点而控制不了人物问题，适配手机全屏。"
   }
 
 
