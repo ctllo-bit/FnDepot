@@ -387,22 +387,6 @@
     "size": "1",
     "changelog": "performance: 初始版本"
   },
-  "ubuntu-xfce": {
-      "display_name": "Ubuntu",
-      "platform": [
-        "x86",
-        "arm"
-      ],
-      "desc": "这是一个简单的Ubuntu的桌面应用，由Dokcer来驱动。\n默认用户名：webtop\n默认密码：password",
-      "labels": "Ubuntu,Docker",
-      "version": "1.0.0",
-      "distributor": "ctllo-bit",
-      "distributor_url": "https://github.com/ctllo-bit/FnDepot",
-      "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
-      "install_type": "存储空间",
-      "size": "1",
-      "changelog": "performance: 初始版本"
-  },
 
 
   "ddnsto": {
