@@ -468,7 +468,22 @@
     "install_type": "存储空间",
     "size": "8",
     "changelog": "performance: 初始版本"
+  },
+  "coder": {
+    "display_name": "VS Code原生版",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "飞牛原生版本，用root适配的coder-server，使用Systemd 挂载服务，可以本地化终端。",
+    "labels": "工具,原生",
+    "version": "1.0.0",
+    "distributor": "ctllo-bit",
+    "distributor_url": "https://github.com/ctllo-bit/FnDepot",
+    "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "2.7",
+    "changelog": "performance: 初始版本"
   }
-
-
+  
 }

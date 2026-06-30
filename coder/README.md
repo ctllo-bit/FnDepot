@@ -9,9 +9,9 @@
 
 离线本地安装
 
-1、在/vol1/1000目录，创建coderProject文件夹
+1、在/vol1/1000目录，创建VscodeProject文件夹
 2、去官网按架构，下载最新code-server-*.tar.gz包
-3、上传到/vol1/1000/coderProject目录，安装此fpk包即可。
+3、上传到/vol1/1000/VscodeProject目录，安装此fpk包即可。
 
 
 ## 在内嵌终端打包应用
@@ -27,5 +27,4 @@ sudo appcenter-cli install-local --env config.env  #指定环境变量文件进�
 ### 应用配置
 wizard_admin_username=admin
 wizard_admin_password=password123
-wizard_database_type=sqlite
 wizard_app_port=8080
