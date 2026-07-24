@@ -159,6 +159,38 @@
       "size": "1",
       "changelog": "performance: 初始版本"
   },
+  "hamsters": {
+    "display_name": "帮我看一下仓鼠",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "摸鱼必备 | 帮我看一下仓鼠",
+    "labels": "游戏",
+    "version": "1.0.0",
+    "distributor": "ctllo-bit",
+    "distributor_url": "https://github.com/ctllo-bit/FnDepot",
+    "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "1",
+    "changelog": "performance: 初始版本"
+  },
+  "goldfishies": {
+    "display_name": "金鱼水族馆",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "摸鱼必备 | 金鱼水族馆",
+    "labels": "工具",
+    "version": "1.0.0",
+    "distributor": "ctllo-bit",
+    "distributor_url": "https://github.com/ctllo-bit/FnDepot",
+    "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "1",
+    "changelog": "performance: 初始版本"
+  },
 
 
   "clawstrike": {
@@ -429,12 +461,12 @@
     ],
     "desc": "基于pvz-portable二次开发，需要用户提main.pak与properties文件夹，将这两个上传到应用文件的pvz-portable/data/目录就可以运行了。",
     "labels": "游戏,原生",
-    "version": "1.0.0",
+    "version": "0.1.27",
     "distributor": "ctllo-bit",
     "distributor_url": "https://github.com/ctllo-bit/FnDepot",
     "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "6",
+    "size": "41.9",
     "changelog": "performance: 初始版本"
   },
   "fusion": {
@@ -475,15 +507,15 @@
       "x86",
       "arm"
     ],
-    "desc": "飞牛原生版本，用root适配的coder-server，使用Systemd 挂载服务，可以本地化终端。",
+    "desc": "原生版本，适配了飞牛统一网关的root版本，可以本地化终端，工作目录为/vol1/1000/VscodeProject，在此目录中上传code-server-*.tar.gz文件，然后安装此fpk即可。",
     "labels": "工具,原生",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "distributor": "ctllo-bit",
     "distributor_url": "https://github.com/ctllo-bit/FnDepot",
     "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "2.7",
-    "changelog": "performance: 初始版本"
+    "size": "9.5",
+    "changelog": "适配飞牛的统一网关"
   }
   
 }
