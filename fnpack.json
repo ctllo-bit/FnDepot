@@ -517,7 +517,6 @@
     "size": "9.5",
     "changelog": "适配飞牛的统一网关"
   },
-  
   "jilehe": {
     "display_name": "鸡乐盒",
     "platform": [
@@ -532,6 +531,22 @@
     "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
     "install_type": "存储空间",
     "size": "25.3",
+    "changelog": "performance: 初始版本"
+  },
+  "playgl": {
+    "display_name": "跳一跳",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "百货老佛爷于 2018 年推出了名为 “Go for Good” 的可持续发展与更负责任时尚倡议的游戏。",
+    "labels": "游戏,原生",
+    "version": "1.0.0",
+    "distributor": "ctllo-bit",
+    "distributor_url": "https://github.com/ctllo-bit/FnDepot",
+    "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "2.6",
     "changelog": "performance: 初始版本"
   },
   "dzk3d": {
