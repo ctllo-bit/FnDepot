@@ -182,7 +182,7 @@
       "arm"
     ],
     "desc": "摸鱼必备 | 金鱼水族馆",
-    "labels": "工具",
+    "labels": "游戏",
     "version": "1.0.0",
     "distributor": "ctllo-bit",
     "distributor_url": "https://github.com/ctllo-bit/FnDepot",
@@ -200,7 +200,7 @@
         "arm"
       ],
       "desc": "2025年JS13K比赛的冠军作品。",
-      "labels": "游戏",
+      "labels": "游戏,原生",
       "version": "1.0.0",
       "distributor": "ctllo-bit",
       "distributor_url": "https://github.com/ctllo-bit/FnDepot",
@@ -216,7 +216,7 @@
         "arm"
       ],
       "desc": "基于原版2048全面重写，进行了界面适配与添加音效。",
-      "labels": "游戏",
+      "labels": "游戏,原生",
       "version": "1.0.1",
       "distributor": "ctllo-bit",
       "distributor_url": "https://github.com/ctllo-bit/FnDepot",
@@ -232,7 +232,7 @@
         "arm"
       ],
       "desc": "优美而强大的网页魔方",
-      "labels": "游戏",
+      "labels": "游戏,原生",
       "version": "1.0.0",
       "distributor": "ctllo-bit",
       "distributor_url": "https://github.com/ctllo-bit/FnDepot",
@@ -264,7 +264,7 @@
         "arm"
       ],
       "desc": "Eaglercraft 1.8.8 版本，由 lax1dude 制作。这是目前 Eaglercraft 最稳定、应用最广泛的版本。",
-      "labels": "游戏",
+      "labels": "游戏,原生",
       "version": "1.8.8",
       "distributor": "ctllo-bit",
       "distributor_url": "https://github.com/ctllo-bit/FnDepot",
@@ -516,6 +516,38 @@
     "install_type": "存储空间",
     "size": "9.5",
     "changelog": "适配飞牛的统一网关"
-  }
+  },
   
+  "jilehe": {
+    "display_name": "鸡乐盒",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "代码、音频均来自网络收集，请勿用于商业用途，本项目仅供娱乐，请勿用于恶意攻击他人！",
+    "labels": "游戏,原生",
+    "version": "1.0.0",
+    "distributor": "ctllo-bit",
+    "distributor_url": "https://github.com/ctllo-bit/FnDepot",
+    "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "25.3",
+    "changelog": "performance: 初始版本"
+  },
+  "dzk3d": {
+    "display_name": "打砖块3D版",
+    "platform": [
+      "x86",
+      "arm"
+    ],
+    "desc": "《打砖块》(Breakout)是主机平台上最具代表性的游戏之一，最初由雅达利公司于1976年开发，微星带你重温经典，将这款游戏以充满乐趣的现代方式重新演绎。",
+    "labels": "游戏,原生",
+    "version": "1.0.0",
+    "distributor": "ctllo-bit",
+    "distributor_url": "https://github.com/ctllo-bit/FnDepot",
+    "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "4.5",
+    "changelog": "performance: 初始版本"
+  }
 }
