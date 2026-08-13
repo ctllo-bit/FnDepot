@@ -371,11 +371,10 @@
     "size": "1",
     "changelog": "performance: 初始版本"
   },
-  "vs-code": {
-    "display_name": "VS Code桌面版",
+  "coder-docker": {
+    "display_name": "Coder 桌面版",
     "platform": [
-      "x86",
-      "arm"
+      "x86"
     ],
     "desc": "飞牛桌面版本的VScode，两种方式打开：一个是内嵌的桌面版本，另一个外链打开。",
     "labels": "开发,Docker",
@@ -384,8 +383,8 @@
     "distributor_url": "https://github.com/ctllo-bit/FnDepot",
     "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "1",
-    "changelog": "修复终端不能复制粘贴的问题。"
+    "size": "6.8",
+    "changelog": "适配飞牛统一网关的全新版本。"
   },
   "tenfellos": {
     "display_name": "腾飞Webos",
@@ -502,7 +501,7 @@
     "changelog": "performance: 初始版本"
   },
   "coder": {
-    "display_name": "VS Code原生版",
+    "display_name": "Coder 原生版",
     "platform": [
       "x86",
       "arm"
