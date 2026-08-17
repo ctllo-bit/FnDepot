@@ -513,8 +513,16 @@
     "distributor_url": "https://github.com/ctllo-bit/FnDepot",
     "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "9.5",
-    "changelog": "适配飞牛的统一网关"
+    "size": "6.5",
+    "changelog": "修复工作目录权限问题，统一改用systemctl来管理进程。",
+    "arch_diff": {
+      "x86": {
+        "download_url": "./coder/coder-amd64.fpk"
+      },
+      "arm": {
+        "download_url": "./coder/coder-arm64.fpk"
+      }
+    }
   },
   "jilehe": {
     "display_name": "鸡乐盒",
