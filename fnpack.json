@@ -460,13 +460,13 @@
     ],
     "desc": "基于pvz-portable二次开发，需要用户提main.pak与properties文件夹，将这两个上传到应用文件的pvz-portable/data/目录就可以运行了。",
     "labels": "游戏,原生",
-    "version": "0.1.27",
+    "version": "0.2.1",
     "distributor": "ctllo-bit",
     "distributor_url": "https://github.com/ctllo-bit/FnDepot",
     "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
     "install_type": "存储空间",
-    "size": "41.9",
-    "changelog": "performance: 初始版本"
+    "size": "42",
+    "changelog": "上游项目更新，更换wasm文件。"
   },
   "fusion": {
     "display_name": "Fusion",
