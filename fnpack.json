@@ -500,6 +500,21 @@
     "size": "8",
     "changelog": "performance: 初始版本"
   },
+  "webtop": {
+    "display_name": "Webtop",
+    "platform": [
+      "x86"
+    ],
+    "desc": "远程桌面飞牛本机上安装XFCE桌面，实验性通过KasmVNC 与 kclient 增强层实现远程桌面。",
+    "labels": "工具,原生",
+    "version": "1.0.0",
+    "distributor": "ctllo-bit",
+    "distributor_url": "https://github.com/ctllo-bit/FnDepot",
+    "bug_report_url": "https://github.com/ctllo-bit/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "9.85",
+    "changelog": "performance: 初始版本"
+  },
   "coder": {
     "display_name": "Coder 原生版",
     "platform": [
